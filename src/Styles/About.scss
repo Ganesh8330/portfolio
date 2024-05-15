@@ -1,0 +1,29 @@
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 4rem;
+  border-bottom: 1px solid #3B3B3B;
+
+  h2 {
+    color: silver;
+    margin-bottom: 5rem;
+    font-size: 3rem;
+    font-weight: 400;
+    margin-top: 6rem;
+  }
+
+  p {
+    color: silver;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 40px;
+  }
+
+  img {
+    width: 33rem;
+    border-end-end-radius: 7rem;
+    border-start-start-radius: 7rem;
+  }
+}

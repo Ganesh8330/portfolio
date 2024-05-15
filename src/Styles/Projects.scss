@@ -1,0 +1,58 @@
+.projects{
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #3B3B3B;
+    h2{
+        color: silver;
+        margin-bottom: 5rem;
+        font-size: 3rem;
+        font-weight: 400;
+        text-align: center;
+    }
+
+    .mar-b{
+        margin-bottom: 4rem;
+    }
+
+    img{
+        width: 36rem;
+        border-end-end-radius: 5rem;
+        border-start-start-radius: 5rem;
+        height:301px;
+    }
+    h3{
+        color: silver;
+        margin-bottom: 1.5rem;
+        font-size: 2rem;
+        font-weight: 500;
+    }
+
+    .descp{
+        color: silver;
+        font-size: 1.3rem;
+        font-weight: 100;
+        line-height: 34px;
+    }
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h2{
+        color: silver;
+        margin-bottom: 3rem;
+        font-size: 3rem;
+        font-weight: 400;
+        text-align: center;
+    }
+
+    p{
+        color: silver;
+        font-size: 1.3rem;
+        font-weight: 100;
+        line-height: 34px;
+    }
+
+}

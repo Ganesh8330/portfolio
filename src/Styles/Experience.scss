@@ -1,0 +1,49 @@
+.experience{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4rem;
+    border-bottom: 1px solid #3B3B3B;
+    h2{
+        color: silver;
+        text-transform: capitalize;
+        text-align: center;
+        margin-bottom: 3rem;
+        font-size: 3rem;
+        font-weight: 400;
+        margin-top: 3rem;
+    }
+
+    .center{
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        font-size: 2rem;
+        font-weight: 200;
+    }
+
+    p:first-child{
+        color: silver;
+    }
+
+    .ex{
+
+        h3{
+            color: silver;
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+            font-weight: 500;
+        }
+
+        p{
+            color: silver;
+            font-size: 1.3rem;
+            font-weight: 100;
+            line-height: 34px;
+        }
+
+    }
+
+    
+}
